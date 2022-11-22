@@ -1,0 +1,3 @@
+# Hardware
+
+The repository gathers all files related to hardware parts of the Project Simon. It can be STL files for 3D printed parts, all electronics components used, etc...
