@@ -14,8 +14,8 @@ Some trailers are stored in cubic box as shown in the following image.
     <img src="../images/FilmStorageCase/original_film_storage_top_case.jpg" alt="Original storage top part for Inception trailer" width="500">
     <figcaption>The original film storage top part for a trailer</figcaption>
 </figure>
- 
-You can see [here](https://github.com/Project-Simon/hardware/blob/dev/mechanicals/FilmStorageCase/film_storage_case.FCStd) the result in FreeCAD software. The case dimensions are the same to the original one with millimiter accuracy. As it has not be 3D printed yet, you may consider it is still a work-in-progress V1 version. It could have improvments.
+
+You can see [here](https://github.com/Project-Simon/hardware/blob/dev/mechanicals/FilmStorageCase/film_storage_case.FCStd) the result in FreeCAD software. The case dimensions are the same to the original one with millimeter accuracy. As it has not be 3D printed yet, you may consider it is still a work-in-progress V1 version. It could have improvements.
 <figure align="center">
     <img src="../images/FilmStorageCase/film_storage_top_case_view.jpg" alt="Storage case v1 in FreeCAD" width="500">
     <img src="../images/FilmStorageCase/film_storage_case_bottom_view.jpg" alt="Storage case v1 in FreeCAD" width="500">
